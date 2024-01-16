@@ -1,11 +1,29 @@
 ﻿body {
-    background-color: #ed9f66;
+    background-color: #fff1c5;
 }
 h1 {
     text-align: center;
 
 }
 footer {
-    display: block;
+    
     text-align: center;
+}
+footer a {
+        color: #8f4426;
+        margin: 0 10px;
+    }
+footer a:hover {
+    color: white;
+    background-color: saddlebrown;
+}
+.croissant-image {
+    width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+p {
+    text-align: center;
+    font-size: 30px;
 }
